@@ -469,19 +469,10 @@ host-suffix, mazu.m.qq.com
 
 
 #喜马拉雅听书
-#host-suffix, xdcs-collector.ximalaya.com
 host-suffix, sf3-fe-tos.pglstatp-toutiao.com
-#host-suffix, adse.ximalaya.com,reject
-#host-suffix, mobwsa.ximalaya.com, reject
-#host-suffix, adse.wsa.ximalaya.com, reject
-#host-suffix, adbs.ximalaya.com, reject
-#host-suffix, imagev2.xmcdn.com, reject
-#host-suffix, adwbs.ximalaya.com, reject
-#host-suffix, adbehavior.ximalaya.com, reject
 host-suffix, im-x.jd.com, reject
 host-suffix, gdt.qq.com, reject
 host-suffix, dsp-x.jd.com, reject
-#ost-suffix, e.qq.com,喜马拉雅听书
 host-suffix, audid-api.taobao.com, reject
 host-suffix, janapi.jd.com, reject
 host-suffix, xlog.jd.com, reject
