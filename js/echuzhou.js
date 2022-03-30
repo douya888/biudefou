@@ -16,20 +16,3 @@ var url = $request.url;
  
 
 
-
-// body = JSON.stringify(body);
-// var obj = JSON.parse(body);
-
-// obj.ret= 1;
-
-// body = JSON.stringify(obj);
-
-//  body = JSON.parse(body);
-//  //delete body;
-// console.log(obj);
-// console.log(url);
-// console.log('mima');
- 
-//https://qianfanapi.0550.com/v5_0/home/tab-data?area_code=&channel_id=0&city=&cursor=0&page=1&tab_id=1
-//https://qianfanapi.0550.com/v5_0/home/tab-data?area_code=&channel_id=0&city=&cursor=0&page=1&tab_id=1
-
