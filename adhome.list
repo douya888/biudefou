@@ -344,7 +344,7 @@ host-suffix, www.msn.cn
 host-suffix, pitaya.bytedance.com
 host-suffix, widget.time.is
 host-suffix, api2.branch.io
-host-suffix, i.snssdk.com
+#host-suffix, i.snssdk.com
 host-suffix, api-gi.getui.com
 host-suffix, c-gtc.getui.com
 host-suffix, exceptionlog.kugou.com
