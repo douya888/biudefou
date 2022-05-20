@@ -589,7 +589,7 @@ host-suffix, apps.identrust.com
 host-suffix, bds.snssdk.com
 host-suffix, config.yumengnetwork.com
 host-suffix, da.anythinktech.com
-host-suffix, r3.o.lencr.org
+#host-suffix, r3.o.lencr.org
 host-suffix, sdkpoint.chiji-h5.com
 host-suffix, smr.snssdk.com
 host-suffix, tk.anythinktech.com
